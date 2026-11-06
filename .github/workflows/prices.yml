@@ -1,0 +1,37 @@
+name: Build prices
+
+# Every 10 minutes: the shared price file. It lives alone on the prices branch and replaces itself, so the main history stays small.
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/build_prices.py'
+      - '.github/workflows/prices.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prices
+  cancel-in-progress: false
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the file
+        run: python3 tools/build_prices.py "$RUNNER_TEMP/lowest_bin.json"
+      - name: Publish it
+        run: |
+          git switch --orphan prices
+          cp "$RUNNER_TEMP/lowest_bin.json" lowest_bin.json
+          git add lowest_bin.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Prices"
+          git push --force origin prices

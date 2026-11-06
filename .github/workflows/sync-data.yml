@@ -1,0 +1,57 @@
+name: Sync game data
+
+# Once a day: copies the game data the mod needs. It lives alone on the data branch and replaces itself, so the main history stays clean.
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/sync_data.py'
+      - '.github/workflows/sync-data.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start from the last good copy
+        run: |
+          if git fetch --quiet --depth 1 origin data; then
+            git archive FETCH_HEAD data | tar -x
+          fi
+      - name: Copy the data
+        id: copy
+        continue-on-error: true
+        run: python3 tools/sync_data.py
+      - name: Publish it if it changed
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          publish="$RUNNER_TEMP/publish"
+          old="$RUNNER_TEMP/old"
+          mkdir -p "$publish" "$old"
+          cp -r data licenses README.md "$publish"
+          if git rev-parse --verify --quiet FETCH_HEAD >/dev/null; then
+            git archive FETCH_HEAD | tar -x -C "$old"
+          fi
+          if [ -d "$old/data" ] && diff -rq --exclude=sources.json --exclude=.git "$old/data" "$publish/data" >/dev/null; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          cd "$publish"
+          git init --quiet -b data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit --quiet -m "Game data"
+          git push --force --quiet "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data
+      - name: Tell if a source was refused
+        if: steps.copy.outcome == 'failure'
+        run: |
+          echo "A source was refused and kept its last good copy. See the Copy the data step."
+          exit 1

@@ -1,0 +1,28 @@
+The warp menu's island pictures, in the islands folder of the data repository.
+
+These are not under this mod's GPL. They are separate works from the Hypixel SkyBlock Wiki, whose site licence is
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 (licenses/CC-BY-NC-SA-3.0.txt, https://creativecommons.org/licenses/by-nc-sa/3.0/).
+Non-commercial use only. Each wiki page names the design as Hypixel Inc.'s and part of the asset as Mojang's.
+
+Changes made for the mod: transparent edges trimmed, resized. private_island: only the home island, cut from the wider picture.
+
+barn.png: "The Barn (0.26.1).png", uploaded by Pigicial (2026-07-16), https://hypixelskyblock.minecraft.wiki/w/File:The_Barn_%280.26.1%29.png
+bayou.png: "Backwater Bayou (0.25).png", uploaded by Pigicial (2026-05-26), https://hypixelskyblock.minecraft.wiki/w/File:Backwater_Bayou_%280.25%29.png
+canyon.png: "Torrhus Canyon.png", uploaded by Pigicial (2026-07-10), https://hypixelskyblock.minecraft.wiki/w/File:Torrhus_Canyon.png
+crimson_isle.png: "Crimson Isle (0.25).png", uploaded by Pigicial (2026-06-08), https://hypixelskyblock.minecraft.wiki/w/File:Crimson_Isle_%280.25%29.png
+deep_caverns.png: "Deep Caverns (0.1).png", uploaded by Joker876 (2020-05-15), https://hypixelskyblock.minecraft.wiki/w/File:Deep_Caverns_%280.1%29.png
+dungeon_hub.png: "Mort.png", uploaded by SakurasouShiina (2026-05-02), https://hypixelskyblock.minecraft.wiki/w/File:Mort.png
+end.png: "The End (0.24.2).png", uploaded by Pigicial (2026-02-23), https://hypixelskyblock.minecraft.wiki/w/File:The_End_%280.24.2%29.png
+galatea.png: "Moonglade Marsh.png", uploaded by Pigicial (2026-08-03), https://hypixelskyblock.minecraft.wiki/w/File:Moonglade_Marsh.png
+garden.png: "Default Barn Skin (Render).png", uploaded by LunaBot (2026-04-26), https://hypixelskyblock.minecraft.wiki/w/File:Default_Barn_Skin_%28Render%29.png
+gold_mine.png: "Gold Mine (0.24.2).png", uploaded by LunaBot (2026-04-26), https://hypixelskyblock.minecraft.wiki/w/File:Gold_Mine_%280.24.2%29.png
+hub.png: "Hub Island (0.27).png", uploaded by Pigicial (2026-08-04), https://hypixelskyblock.minecraft.wiki/w/File:Hub_Island_%280.27%29.png
+jerrys_workshop.png: "Jerry's Workshop.png", uploaded by LunaBot (2026-04-26), https://hypixelskyblock.minecraft.wiki/w/File:Jerry%27s_Workshop.png
+lotus.png: "Lotus Atoll.png", uploaded by Pigicial (2026-05-06), https://hypixelskyblock.minecraft.wiki/w/File:Lotus_Atoll.png
+mushroom_desert.png: "Mushroom Desert (0.27.3).png", uploaded by Pigicial (2026-10-15), https://hypixelskyblock.minecraft.wiki/w/File:Mushroom_Desert_%280.27.3%29.png
+park.png: "The Park (0.24.1).png", uploaded by LunaBot (2026-04-26), https://hypixelskyblock.minecraft.wiki/w/File:The_Park_%280.24.1%29.png
+private_island.png: "Private Island.png", uploaded by SakurasouShiina (2026-10-15), https://hypixelskyblock.minecraft.wiki/w/File:Private_Island.png
+rift.png: "Rift Dimension.png", uploaded by BuggyAl (2025-02-02), https://hypixelskyblock.minecraft.wiki/w/File:Rift_Dimension.png
+spiders_den.png: "Spider's Den (0.24.2).png", uploaded by LunaBot (2026-04-26), https://hypixelskyblock.minecraft.wiki/w/File:Spider%27s_Den_%280.24.2%29.png
+
+Attribution as the wiki asks: the link to each page above credits its authors.

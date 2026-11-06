@@ -1,0 +1,26 @@
+The island map images, in the maps folder of the data repository.
+
+These are not under this mod's GPL. They are separate works, read only as data, under Creative Commons Attribution-NonCommercial-ShareAlike:
+3.0 for the Hypixel SkyBlock Wiki's renders (licenses/CC-BY-NC-SA-3.0.txt), 4.0 for SkyGuide's (licenses/CC-BY-NC-SA-4.0.txt). Non-commercial use only.
+Each wiki page names the design as Hypixel Inc.'s and part of the asset as Mojang's.
+
+Changes made for the mod: cropped and resized to line up with the map data's world bounds.
+
+hub.png: wiki "Hub Island (0.27) (Top View).png", uploaded by Pigicial (2026-08-04), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Hub_Island_%280.27%29_%28Top_View%29.png
+spiders_den.png: wiki "Spider's Den (0.24.2) (Top View).png", uploaded by LunaBot (2026-04-26), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Spider%27s_Den_%280.24.2%29_%28Top_View%29.png
+the_park.png: wiki "The Park (0.24.1) (Top View).png", uploaded by LunaBot (2026-04-26), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:The_Park_%280.24.1%29_%28Top_View%29.png
+the_barn.png: wiki "The Farming Islands (0.11.4) (Top View).png", uploaded by ASMCHK (2023-01-15), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:The_Farming_Islands_%280.11.4%29_%28Top_View%29.png
+crimson_isle.png: wiki "Crimson Isle (0.25) (Top View).png", uploaded by Pigicial (2026-06-08), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Crimson_Isle_%280.25%29_%28Top_View%29.png
+the_end.png: wiki "The End (0.24.2) (Top View).png", uploaded by Pigicial (2026-02-23), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:The_End_%280.24.2%29_%28Top_View%29.png
+gold_mines.png: wiki "Gold Mine (0.24.2) (Top View).png", uploaded by Pigicial (2026-02-24), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Gold_Mine_%280.24.2%29_%28Top_View%29.png
+deep_caverns.png: SkyGuide data/high/deep_caverns.png, by DeDiamondPro, CC BY-NC-SA 4.0, https://github.com/DeDiamondPro/SkyGuide/tree/master/data
+galatea.png: wiki "Moonglade Marsh (0.27) (Top View).png", uploaded by Pigicial (2026-08-03), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Moonglade_Marsh_%280.27%29_%28Top_View%29.png
+torrhus_canyon.png: wiki "Torrhus Canyon (0.27) (Top View).png", uploaded by Pigicial (2026-07-11), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Torrhus_Canyon_%280.27%29_%28Top_View%29.png
+crystal_hollows.png: SkyGuide data/high/crystal_hollows.png, by DeDiamondPro, CC BY-NC-SA 4.0, https://github.com/DeDiamondPro/SkyGuide/tree/master/data
+dungeon_hub.png: SkyGuide data/high/dungeon_hub.png, by DeDiamondPro, CC BY-NC-SA 4.0, https://github.com/DeDiamondPro/SkyGuide/tree/master/data
+dwarven_mines.png: SkyGuide data/high/dwarven_mines.png, by DeDiamondPro, CC BY-NC-SA 4.0, https://github.com/DeDiamondPro/SkyGuide/tree/master/data
+jerrys_workshop.png: SkyGuide data/high/jerry_workshop.png, by DeDiamondPro, CC BY-NC-SA 4.0, https://github.com/DeDiamondPro/SkyGuide/tree/master/data
+lotus_atoll.png: wiki "Lotus Atoll (0.25) (Top View).png", uploaded by Pigicial (2026-05-06), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Lotus_Atoll_%280.25%29_%28Top_View%29.png
+the_rift.png: SkyGuide data/high/rift.png, by DeDiamondPro, CC BY-NC-SA 4.0, https://github.com/DeDiamondPro/SkyGuide/tree/master/data
+safari.png: wiki "Critter Safari (0.27) (Top View).png", uploaded by Pigicial (2026-07-11), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Critter_Safari_%280.27%29_%28Top_View%29.png
+backwater_bayou.png: wiki "Backwater Bayou (0.25) (Top View).png", uploaded by Pigicial (2026-05-26), CC BY-NC-SA 3.0, https://hypixelskyblock.minecraft.wiki/w/File:Backwater_Bayou_%280.25%29_%28Top_View%29.png
