@@ -1,9 +1,10 @@
 name: Build prices
 
-# Every 10 minutes: the shared price file. It lives alone on the prices branch and replaces itself, so the main history stays small.
+# The shared price file. The Discord bot starts this every 10 minutes (GitHub's own timer runs hours late); the timer here is only
+# a backup for when the bot is down. It lives alone on the prices branch and replaces itself, so the main history stays small.
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
   push:
     branches: [main]
