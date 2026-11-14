@@ -1,0 +1,226 @@
+{
+  "carnivalTokenShops": {
+    "Spooky_Festival": {
+      "candy_scavenger": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Candy Scavenger"
+      },
+      "spooky_hook": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Spooky Savant"
+      },
+      "purple_vogue": {
+        "costs": [
+          100,
+          200,
+          400
+        ],
+        "name": "Purple Vogue"
+      },
+      "trick_or_treat_enthusiast": {
+        "costs": [
+          100,
+          1000
+        ],
+        "name": "Trick or Treat Enthusiast"
+      }
+    },
+    "Season_of_Jerry": {
+      "icy_hook": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Icy Hook"
+      },
+      "present_connoissuer": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Present Connoisseur"
+      },
+      "professional_gifter": {
+        "costs": [
+          100,
+          1000
+        ],
+        "name": "Professional Gifter"
+      },
+      "red_fad": {
+        "costs": [
+          100,
+          200,
+          400
+        ],
+        "name": "Red Fad"
+      }
+    },
+    "Fishing_Festival": {
+      "fishing_prodigy": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Fishing Prodigy"
+      },
+      "shark_sonar": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Shark Sonar"
+      },
+      "denture_collector": {
+        "costs": [
+          100,
+          200,
+          400
+        ],
+        "name": "Denture Collector"
+      },
+      "elasmobranchii_affinity": {
+        "costs": [
+          100,
+          1000
+        ],
+        "name": "Elasmobranchii Affinity"
+      }
+    },
+    "Mining_Fiesta": {
+      "refined_mind": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Refined Mind"
+      },
+      "fortunate_festivity": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Fortunate Festivity"
+      },
+      "powder_hoarder": {
+        "costs": [
+          100,
+          200,
+          400
+        ],
+        "name": "Powder Hoarder"
+      },
+      "titanium_tenacity": {
+        "costs": [
+          100,
+          1000
+        ],
+        "name": "Titanium Tenacity"
+      }
+    },
+    "Mythological_Ritual": {
+      "storied_stinger": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Storied Stinger"
+      },
+      "deadly_greed": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Deadly Greed"
+      },
+      "dianas_favor": {
+        "costs": [
+          100,
+          200,
+          400
+        ],
+        "name": "Diana's Favor"
+      },
+      "elusive_hunter": {
+        "costs": [
+          100,
+          1000
+        ],
+        "name": "Elusive Hunter"
+      }
+    },
+    "Harvest_Feast": {
+      "natural_talent": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Natural Talent"
+      },
+      "fortunate_feasting": {
+        "costs": [
+          50,
+          100,
+          150,
+          200,
+          250
+        ],
+        "name": "Fortunate Feasting"
+      },
+      "feast_crashers": {
+        "costs": [
+          100,
+          200,
+          400
+        ],
+        "name": "Feast Crashers"
+      },
+      "Leftovers": {
+        "costs": [
+          100,
+          1000
+        ],
+        "name": "Leftovers"
+      }
+    }
+  }
+}
