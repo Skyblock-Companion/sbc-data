@@ -1,0 +1,21 @@
+{
+ "hypixel": {
+  "from": "https://api.hypixel.net/v2/resources/skyblock/collections"
+ },
+ "maps": {
+  "commit": "74c681965e6e9c8e6a7f73aeafa8c342e924c757",
+  "from": "https://github.com/meowdding/meowdding-repo"
+ },
+ "neu": {
+  "commit": "af3897bf66e7cc63a6807cab4bf524a7c0dce89c",
+  "from": "https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO"
+ },
+ "repo": {
+  "commit": "5d085e66af00c5d535438cd13fc86ff8c65c384e",
+  "from": "https://github.com/SkyblockAPI/Repo"
+ },
+ "skyhanni": {
+  "commit": "ca4e22abdb789b276122e39807daec90e960e665",
+  "from": "https://github.com/SkyHanniStudios/SkyHanni-REPO"
+ }
+}
