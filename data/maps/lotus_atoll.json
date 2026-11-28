@@ -1,0 +1,166 @@
+{
+  "island": "LOTUS_ATOLL",
+  "default": "https://femboy-hooters.net/u/hmCgWT.png",
+  "topX": -29,
+  "topY": -79,
+  "bottomX": 113,
+  "bottomY": 54,
+  "pois": [
+    {
+      "tooltip": [
+        "<aqua>Lotus Atoll</aqua>"
+      ],
+      "pos": {
+        "x": -15,
+        "y": 71,
+        "z": 1
+      },
+      "destination": "lotus",
+      "type": "portal"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/84b89922130f3dbb73da3bc702c84a48df0e62703dadcc90631b51ad10625f1a",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Betty</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": -13,
+        "y": 71,
+        "z": 4
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/e16cd1ddcf7ecf1f88b6a3736cc75f39d183ad7c8560938d6b27557e32730046",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Ribery</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": -11,
+        "y": 71,
+        "z": -6
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/3843b48aeea51e7fd6ed7e020cb970379ed5333a900dcc15322ca6f2b3a2d8bb",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Lily</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": 27,
+        "y": 66,
+        "z": 16
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/ed492770b3b72978708c28483d04463e63d8062ff36be566691450c94b593495",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Timmy</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": 12,
+        "y": 75,
+        "z": 31
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/2196b1920ec329fa2575ea53c4349f6be908026e5fa173a5dc97d5659e76cceb",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Tina</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": 44,
+        "y": 70,
+        "z": 30
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/c42997283789871793a55412a98735c2cc248f2d3c79bafbf3a4bbe31593b559",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Jessica</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": 76,
+        "y": 64,
+        "z": -10
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/8075041de6d9af29a33a7b54c59530ec6fd9e94eafe8a1a40817a322cb616d45",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Kay</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": 24,
+        "y": 83,
+        "z": -50
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/371c44ad407c021737ad78907b5068d7bcc0c658b2a2fbabf01706563bd9447d",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<gold>Captain Baha</gold>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": -26,
+        "y": 73,
+        "z": 4
+      },
+      "type": "npc"
+    },
+    {
+      "texture": "http://textures.minecraft.net/texture/53ce976a97fc2ad94c8914313eaff5083a403db949250eda544529b4e9570018",
+      "link": "https://hypixelskyblock.minecraft.wiki/w/$name",
+      "name": "<dark_green>Researcher Tay</dark_green>",
+      "tooltip": [
+        "$name",
+        "",
+        "<gray><bold>Click to view wiki!</bold></gray>"
+      ],
+      "position": {
+        "x": 27,
+        "y": 141,
+        "z": -60
+      },
+      "type": "npc"
+    }
+  ]
+}

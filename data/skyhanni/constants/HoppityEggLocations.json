@@ -1,0 +1,654 @@
+{
+  "rabbitSlots": {
+    "28": 1,
+    "29": 2,
+    "30": 3,
+    "31": 4,
+    "32": 5,
+    "33": 6,
+    "34": 7
+  },
+  "otherUpgradeSlots": [
+    27,
+    35,
+    37,
+    38,
+    39,
+    41
+  ],
+  "noPickblockSlots": [
+    13,
+    38
+  ],
+  "destructiveSlots": [
+    42,
+    43,
+    47,
+    48,
+    49,
+    50,
+    51,
+    53
+  ],
+  "barnIndex": 35,
+  "infoIndex": 13,
+  "productionInfoIndex": 45,
+  "handCookieIndex": 37,
+  "prestigeIndex": 27,
+  "milestoneIndex": 53,
+  "leaderboardIndex": 52,
+  "timeTowerIndex": 38,
+  "shrineIndex": 39,
+  "coachRabbitIndex": 41,
+  "rabbitHitmanIndex": 51,
+  "maxRabbits": 577,
+  "maxPrestige": 6,
+  "cf_shortcut_index": 16,
+  "maxMilestoneChocolate": 700000000000,
+  "chocolateMilestones": [
+    50000000000,
+    100000000000,
+    150000000000,
+    200000000000,
+    300000000000,
+    400000000000,
+    500000000000,
+    600000000000,
+    700000000000
+  ],
+  "hitman_costs": [
+    1000,
+    10000,
+    100000,
+    200000,
+    400000,
+    600000,
+    800000,
+    1000000,
+    1500000,
+    2000000,
+    3000000,
+    4000000,
+    5000000,
+    6000000,
+    7000000,
+    8500000,
+    10000000,
+    12000000,
+    14000000,
+    16000000,
+    18000000,
+    20000000,
+    22000000,
+    24000000,
+    26000000,
+    28000000,
+    30000000,
+    32000000
+  ],
+  "specialRabbits": [
+    "ewogICJ0aW1lc3RhbXAiIDogMTcxNDk1ODk5MjUzNywKICAicHJvZmlsZUlkIiA6ICI4YmM3MjdlYThjZjA0YWUzYTI4MDVhY2YzNjRjMmQyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3RpbnZlbnRpdmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI4Yzc3ODllYzkzNmQxMWU1NDFjNjk1Y2U1M2QwNWNmODNmOGMwNGMxNDhhMGIwZDg1Njc5Y2NhMTE0YTBmOSIKICAgIH0KICB9Cn0="
+  ],
+  "residentLocations": {
+    "HUB": [
+      "Castle",
+      "Towny",
+      "Oakly",
+      "Hubby",
+      "Rogue"
+    ],
+    "CRIMSON_ISLE": [
+      "Ember",
+      "Albus",
+      "Attila",
+      "Sulfur",
+      "Dojo"
+    ],
+    "GOLD_MINES": [
+      "Lazy",
+      "Picky",
+      "Brick",
+      "Boulder",
+      "Hole"
+    ],
+    "DEEP_CAVERNS": [
+      "Eisen",
+      "Carmine",
+      "Azure",
+      "Cave",
+      "Emma"
+    ],
+    "DUNGEON_HUB": [
+      "Krys",
+      "Mush Mush",
+      "Ruina",
+      "Morty",
+      "Soon"
+    ],
+    "SPIDER_DEN": [
+      "Harland",
+      "Striker",
+      "Webb",
+      "Gravler",
+      "Maxima"
+    ],
+    "DWARVEN_MINES": [
+      "Octavia",
+      "Kalumdai",
+      "Halmenrog",
+      "Mimi",
+      "Motfer"
+    ],
+    "THE_END": [
+      "Pearl",
+      "Egg",
+      "Ender",
+      "Mite",
+      "Zea"
+    ],
+    "THE_PARK": [
+      "Savannah",
+      "Canopus",
+      "Orchid",
+      "Jacqueline",
+      "Woody"
+    ],
+    "CRYSTAL_HOLLOWS": [
+      "Violet",
+      "Coltron",
+      "Grog",
+      "Jade",
+      "Kronk"
+    ],
+    "THE_FARMING_ISLANDS": [
+      "Rochie",
+      "Mutonio",
+      "Melon",
+      "Potato",
+      "Stinky"
+    ],
+    "BACKWATER_BAYOU": [
+      "Nearquaad",
+      "Sherk",
+      "Donkey",
+      "Onion",
+      "Bayou"
+    ],
+    "GALATEA": [
+      "Marshall",
+      "Figgy",
+      "Lumie",
+      "Grove"
+    ],
+    "LOTUS_ATOLL": [
+      "Croak",
+      "Hopscotch",
+      "Lotus",
+      "Toad",
+      "Ribbit"
+    ]
+  },
+  "apiEggLocations": {
+    "THE_PARK": {
+      "foraging_birch_launch_pad": "-264:84:-21",
+      "foraging_flower_pot": "-303:81:4",
+      "foraging_rainmaker": "-305:76:-82",
+      "foraging_pond_bridge": "-316:75:-51",
+      "foraging_lonely_island": "-336:90:77",
+      "foraging_race": "-364:89:42",
+      "foraging_cultist": "-366:102:-94",
+      "foraging_nyko": "-373:84:-64",
+      "foraging_melody": "-411:109:74",
+      "foraging_sculpture": "-416:128:-112",
+      "foraging_islands": "-424:118:-103",
+      "foraging_clay_tunnel": "-435:107:43",
+      "foraging_funk": "-454:111:30",
+      "foraging_cobblestone": "-460:119:-83",
+      "foraging_jungle": "-488:116:-35"
+    },
+    "HUB": {
+      "hub_big_useless_door": "-7:84:156",
+      "hub_shifty_shop": "125:74:168",
+      "hub_wheat_minion": "49:72:-108",
+      "hub_blacksmith": "20:63:-122",
+      "hub_village_up": "-14:88:-52",
+      "hub_bazaar": "-40:73:-22",
+      "hub_mountain": "-1:144:81",
+      "hub_foraging_camp": "-138:73:-14",
+      "hub_castle": "-186:87:81",
+      "hub_broken_cage": "161:71:157",
+      "hub_colosseum": "160:89:34",
+      "hub_wizard_tower": "46:73:106",
+      "hub_green_ritual": "-121:75:-178",
+      "hub_farm": "42:73:-125",
+      "hub_mountain_2": "-39:190:69",
+      "hub_wilderness": "147:113:117",
+      "hub_fishing_outpost": "149:69.0:-41"
+    },
+    "GOLD_MINES": {
+      "gold_mine_coal_pile": "15:75:-290",
+      "gold_mine_crate": "-25:79:-282",
+      "gold_mine_gold_forger": "-30:74:-293",
+      "gold_mine_rusty": "-25:78:-328",
+      "gold_mine_stairs": "-18:62:-353",
+      "gold_mine_launch_pad": "-11:68:-397",
+      "gold_mine_fairy_soul": "17:57:-340",
+      "gold_mine_fire": "-22:37:-336",
+      "gold_mine_pickaxe": "-19:25:-305",
+      "gold_mine_iron_forger": "-2:82:-309",
+      "gold_mine_windmill": "41:80:-311",
+      "gold_mine_lava": "-49:94:-335",
+      "gold_mine_forge": "-44:77:-303",
+      "gold_mine_entrance": "-15:104:-313",
+      "gold_mine_mountain": "-19:143:-361"
+    },
+    "CRYSTAL_HOLLOWS": {
+      "crystal_hollows_sisko": "494:106:556",
+      "crystal_hollows_greatforge": "533:108:556",
+      "crystal_hollows_middle": "513:70:513",
+      "crystal_hollows_diamond_essence": "472:106:518",
+      "crystal_hollows_gold_ore": "553:100:489",
+      "crystal_hollows_mithril": "557:117:463",
+      "crystal_hollows_lava": "530:71:465",
+      "crystal_hollows_stairwell": "509:71:480",
+      "crystal_hollows_ledge": "510:93:470",
+      "crystal_hollows_platform": "477:82:532",
+      "crystal_hollows_pillar": "532:69:528",
+      "crystal_hollows_magma_fields": "485:65:479",
+      "crystal_hollows_amethyst": "463:127:505",
+      "crystal_hollows_crystals": "553:106:513",
+      "crystal_hollows_crystal_nucleus": "508:115:564"
+    },
+    "DEEP_CAVERNS": {
+      "deep_caverns_walter": "24:156:-38",
+      "deep_caverns_lapis_miner": "-11:120:37",
+      "deep_caverns_pigmen_sign": "1:110:45",
+      "deep_caverns_redstone_miner": "21:104:17",
+      "deep_caverns_diamond_sanctuary": "46:38:22",
+      "deep_caverns_rhys": "31:12:13",
+      "deep_caverns_slimehill": "20:68:43",
+      "deep_caverns_fossil": "38:12:20",
+      "deep_caverns_portal": "4:148:88",
+      "deep_caverns_entrance_top": "11:176:58",
+      "deep_caverns_peak": "-34:207:38",
+      "deep_caverns_platform": "22:159:27",
+      "deep_caverns_gunpowder_mines": "56:151:23",
+      "deep_caverns_fire": "1:153:37",
+      "deep_caverns_entrance_steps": "7:157:63"
+    },
+    "THE_FARMING_ISLANDS": {
+      "farming_skull": "143:77:-404",
+      "farming_mason": "174:78:-357",
+      "farming_well": "175:77:-373",
+      "farming_aqueduct": "116:87:-222",
+      "farming_scarecrow": "136:74:-215",
+      "farming_moby": "204:54:-503",
+      "farming_trappers_den": "284:102:-573",
+      "farming_farmer_jon": "163:92:-599",
+      "farming_oasis": "256:184:-564",
+      "farming_carrots": "142:90:-300",
+      "farming_pasture": "152:72:-217",
+      "farming_barn": "146:83:-242",
+      "farming_windmill": "95:83:-284",
+      "farming_oasis_bridge": "142:70:-453",
+      "farming_hill": "168:92:-319"
+    },
+    "THE_END": {
+      "end_highest_point": "-584:211:-272",
+      "end_dragon_egg": "-672:77:-276",
+      "end_race_checkpoint": "-778:101:-300",
+      "end_dragons_view": "-714:41:-315",
+      "end_pearl_dealer": "-502:103:-299",
+      "end_race_stairs": "-510:110:-250",
+      "end_void_sepulture": "-566:7:-316",
+      "end_parkour": "-600:21:-255",
+      "end_peak": "-667:33:-210",
+      "end_spire": "-722:56:-232",
+      "end_draconic_altar": "-591:5:-276",
+      "end_bruiser_hideout": "-551:56:-239",
+      "end_obsidian_spike": "-451:50:-274",
+      "end_overlook": "-539:102:-271",
+      "end_zealots": "-661:5:-248"
+    },
+    "DWARVEN_MINES": {
+      "dwarven_mines_broadjaw": "13:201:-150",
+      "dwarven_mines_emissary": "-134:174:-51",
+      "dwarven_mines_miners_guild": "-73:222:-139",
+      "dwarven_mines_lift": "-93:200:-122",
+      "dwarven_mines_geo": "91:199:-123",
+      "dwarven_mines_royal_palace": "126:197:187",
+      "dwarven_mines_hanging_court": "78:188:126",
+      "dwarven_mines_dwarf_statue": "32:179:103",
+      "dwarven_mines_ice_wall": "-17:128:177",
+      "dwarven_mines_forge": "-2:147:-52",
+      "dwarven_mines_goblin_burrows": "-146:144:148",
+      "dwarven_mines_gold_gate": "87:193:-44",
+      "dwarven_mines_aristocrat_passage": "104:151:142",
+      "dwarven_mines_mist": "36:128:50",
+      "dwarven_mines_crystal": "-1:183:26"
+    },
+    "SPIDER_DEN": {
+      "spiders_den_top": "-200:174:-313",
+      "spiders_den_dragon_skeleton": "-353:124:-250",
+      "spiders_den_archaeologist": "-355:111:-293",
+      "spiders_den_crimson_isle": "-360:85:-356",
+      "spiders_den_haymitch": "-202:83:-238",
+      "spiders_den_sanctuary_egg": "-266:72:-191",
+      "spiders_den_boulder": "-299:97:-167",
+      "spiders_den_mushroom": "-165:70:-306",
+      "spiders_den_spiders": "-280:115:-181",
+      "spiders_den_house": "-283:129:-185",
+      "spiders_den_sanctuary_high": "-303:65:-182",
+      "spiders_den_fossil": "-209:74:-322",
+      "spiders_den_den": "-155:86:-351",
+      "spiders_den_relic": "-293:36:-271",
+      "spiders_den_fairy_soul": "-398:139:-250"
+    },
+    "CRIMSON_ISLE": {
+      "crimson_isle_entrance": "-358:80:-442",
+      "crimson_isle_phlegblast": "-375:83:-709",
+      "crimson_isle_magma_chamber": "-376:63:-802",
+      "crimson_isle_ashfang": "-469:135:-1020",
+      "crimson_isle_forgotten_skull": "-375:121:-1009",
+      "crimson_isle_colosseum": "-695:98:-795",
+      "crimson_isle_engineer": "-289:127:-985",
+      "crimson_isle_cathedral": "-33:114:-937",
+      "crimson_isle_mage_outpost": "-295:93:-689",
+      "crimson_isle_bladesoul": "-270:83:-496",
+      "crimson_isle_tao": "-237:108:-605",
+      "crimson_isle_hero_statue": "-62:107:-811",
+      "crimson_isle_odger": "-376:207:-809",
+      "crimson_isle_dragontail_shop": "-641:101:-822",
+      "crimson_isle_bastion": "-631:141:-926"
+    },
+    "DUNGEON_HUB": {
+      "dungeon_hub_leaderboards": "-18:87:-27",
+      "dungeon_hub_croesus": "-31:126:44",
+      "dungeon_hub_hub_portal": "16:125:3",
+      "dungeon_hub_never_arriving": "-51:125:20",
+      "dungeon_hub_mort": "-61:123:4",
+      "dungeon_hub_blacksmith": "-53:120:8",
+      "dungeon_hub_selector": "-34:119:9",
+      "dungeon_hub_ophelia": "-52:120:-10",
+      "dungeon_hub_statue": "0:146:-78",
+      "dungeon_hub_race": "-23:86:-3",
+      "dungeon_hub_mushroom": "-5:23:98",
+      "dungeon_hub_crystal_core": "5:11:-1",
+      "dungeon_hub_precursor_ruins": "-138:21:-7",
+      "dungeon_hub_catacombs": "-52:156:0",
+      "dungeon_hub_entrance": "0:108:0"
+    },
+    "BACKWATER_BAYOU": {
+      "bayou_wheel": "74:89:-1",
+      "bayou_path": "15:71:-16",
+      "bayou_dock": "14:68:4",
+      "bayou_smokestacks": "70:81:-14",
+      "bayou_bridge": "36:73:18",
+      "bayou_vines": "56:82:-7",
+      "bayou_hattie": "17:71:21",
+      "bayou_waterfall": "37:73:-23",
+      "bayou_lilypad": "24:68:-10",
+      "bayou_ship": "-11:73:-5",
+      "bayou_joel": "4:68:7",
+      "bayou_roddy": "25:79:-25",
+      "bayou_pipe": "59:80:3",
+      "bayou_gear": "61:87:23",
+      "bayou_cave": "23:61:-33"
+    },
+    "GALATEA": {
+      "foraging_2_launch_pad": "-539:115:-30",
+      "foraging_2_amaury": "-578:109:-1",
+      "foraging_2_swoop": "-581:113:-25",
+      "foraging_2_condenser": "-592:113:5",
+      "foraging_2_banker": "-599:113:-34",
+      "foraging_2_library": "-604:107:10",
+      "foraging_2_david": "-606:117:-8",
+      "foraging_2_campfire": "-627:117:48",
+      "foraging_2_high_tree": "-678:132:-81",
+      "foraging_2_cave": "-688:88:12",
+      "foraging_2_spruce_bridge": "-692:113:-23",
+      "foraging_2_steps": "-692:120:5",
+      "foraging_2_sawyer": "-698:126:80",
+      "foraging_2_murkwater": "-704:171:1",
+      "foraging_2_vine": "-733:95:-44"
+    },
+    "LOTUS_ATOLL": {
+      "lotus_pond": "16:75:31",
+      "lotus_temple": "31:141:-66",
+      "lotus_cave": "90:69:-24",
+      "lotus_stairway": "25:74:-39",
+      "lotus_bridge": "23:66:-21",
+      "lotus_lily_pad": "62:66:24",
+      "lotus_waterfall": "92:85:2",
+      "lotus_cherry": "84:97:18",
+      "lotus_entrance": "-7:71:-4",
+      "lotus_kay": "21:83:-45",
+      "lotus_flower": "32:67:1",
+      "lotus_path": "8:71:-11",
+      "lotus_beach": "58:67:-40",
+      "lotus_treasure": "77:72:-6",
+      "lotus_jessica": "63:61:-6"
+    },
+    "TORRHUS_CANYON": {
+      "foraging_3_blimp": "-740:98:180",
+      "foraging_3_prismarine": "-758:98:251",
+      "foraging_3_totem_pole": "-691:102:184",
+      "foraging_3_waterfall": "-621:105:200",
+      "foraging_3_mushroom_cave": "-559:98:236",
+      "foraging_3_island_entrance": "-718:96:139",
+      "foraging_3_bridge": "-702:137:149",
+      "foraging_3_honeys_stash": "-564:103:200",
+      "foraging_3_beacon": "-597:125:203",
+      "foraging_3_amethyst": "-534:100:213",
+      "foraging_3_honey": "-629:99:229",
+      "foraging_3_great_helix_tree": "-533:110:275",
+      "foraging_3_big_nest": "-601:173:235",
+      "foraging_3_campsite": "-681:82:287",
+      "foraging_3_torrhus_springs": "-652:161:190"
+    }
+  },
+  "chocolateFactoryMilestones": [
+    {
+      "amount": 1000,
+      "rabbit": "§fAlmond Amaretto"
+    },
+    {
+      "amount": 10000,
+      "rabbit": "§fButtercream Blossom"
+    },
+    {
+      "amount": 100000,
+      "rabbit": "§fCocoa Comet"
+    },
+    {
+      "amount": 1000000,
+      "rabbit": "§fDulce Drizzle"
+    },
+    {
+      "amount": 2500000,
+      "rabbit": "§fEspresso Eclair"
+    },
+    {
+      "amount": 5000000,
+      "rabbit": "§aFudge Fountain"
+    },
+    {
+      "amount": 10000000,
+      "rabbit": "§aGinger Glaze"
+    },
+    {
+      "amount": 25000000,
+      "rabbit": "§aHoney Hazelnut"
+    },
+    {
+      "amount": 50000000,
+      "rabbit": "§aIcing Ivy"
+    },
+    {
+      "amount": 100000000,
+      "rabbit": "§aJasmine Jello"
+    },
+    {
+      "amount": 250000000,
+      "rabbit": "§9Kiwi Kiss"
+    },
+    {
+      "amount": 500000000,
+      "rabbit": "§9Lavender Lemon"
+    },
+    {
+      "amount": 1000000000,
+      "rabbit": "§9Maple Mirage"
+    },
+    {
+      "amount": 2500000000,
+      "rabbit": "§9Nougat Nebula"
+    },
+    {
+      "amount": 5000000000,
+      "rabbit": "§9Orange Obsidian"
+    },
+    {
+      "amount": 10000000000,
+      "rabbit": "§5Peppermint Pearl"
+    },
+    {
+      "amount": 25000000000,
+      "rabbit": "§5Quince Quark"
+    },
+    {
+      "amount": 50000000000,
+      "rabbit": "§5Raspberry Ripple"
+    },
+    {
+      "amount": 100000000000,
+      "rabbit": "§5Strawberry Swirl"
+    },
+    {
+      "amount": 150000000000,
+      "rabbit": "§5Toffee Tulip"
+    },
+    {
+      "amount": 200000000000,
+      "rabbit": "§6Ube Unicorn"
+    },
+    {
+      "amount": 300000000000,
+      "rabbit": "§6Vanilla Vortex"
+    },
+    {
+      "amount": 400000000000,
+      "rabbit": "§6Walnut Whirl"
+    },
+    {
+      "amount": 500000000000,
+      "rabbit": "§6Xoco Xanudu"
+    },
+    {
+      "amount": 600000000000,
+      "rabbit": "§6Yogurt Yucca"
+    },
+    {
+      "amount": 700000000000,
+      "rabbit": "§dZest Zephyr"
+    }
+  ],
+  "chocolateShopMilestones": [
+    {
+      "amount": 2000000,
+      "rabbit": "§fAlpha"
+    },
+    {
+      "amount": 10000000,
+      "rabbit": "§aBeta"
+    },
+    {
+      "amount": 25000000,
+      "rabbit": "§9Gamma"
+    },
+    {
+      "amount": 50000000,
+      "rabbit": "§5Delta"
+    },
+    {
+      "amount": 100000000,
+      "rabbit": "§6Epsilon"
+    },
+    {
+      "amount": 250000000,
+      "rabbit": "§dZeta"
+    },
+    {
+      "amount": 500000000,
+      "rabbit": "§fEta"
+    },
+    {
+      "amount": 1000000000,
+      "rabbit": "§aTheta"
+    },
+    {
+      "amount": 2500000000,
+      "rabbit": "§9Iota"
+    },
+    {
+      "amount": 5000000000,
+      "rabbit": "§5Kappa"
+    },
+    {
+      "amount": 10000000000,
+      "rabbit": "§6Lambda"
+    },
+    {
+      "amount": 25000000000,
+      "rabbit": "§dMu"
+    },
+    {
+      "amount": 50000000000,
+      "rabbit": "§fNu"
+    },
+    {
+      "amount": 100000000000,
+      "rabbit": "§aXi"
+    },
+    {
+      "amount": 150000000000,
+      "rabbit": "§9Omicron"
+    },
+    {
+      "amount": 200000000000,
+      "rabbit": "§5Pi"
+    },
+    {
+      "amount": 250000000000,
+      "rabbit": "§6Rho"
+    },
+    {
+      "amount": 300000000000,
+      "rabbit": "§dSigma"
+    },
+    {
+      "amount": 350000000000,
+      "rabbit": "§fTau"
+    },
+    {
+      "amount": 400000000000,
+      "rabbit": "§aUpsilon"
+    },
+    {
+      "amount": 500000000000,
+      "rabbit": "§9Phi"
+    },
+    {
+      "amount": 600000000000,
+      "rabbit": "§5Chi"
+    },
+    {
+      "amount": 700000000000,
+      "rabbit": "§6Psi"
+    },
+    {
+      "amount": 800000000000,
+      "rabbit": "§dOmega"
+    }
+  ]
+}
